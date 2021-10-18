@@ -3,9 +3,9 @@
 - 👀 I’m interested in ...
 Improving customer experience using Next-Best-Action Technologies.
 
-- 🌱 I’m currently learning ...Applying Blockchain technologies (Solidity)
+- 🌱 I’m currently learning ...Applying NBA to Blockchain technologies (Solidity)
 
-- 💞️ I’m looking to collaborate on ... Next Best Action Technologies
+- 💞️ I’m looking to collaborate on ... Next Best Action API's
 
 - 📫 How to reach me ...
 
