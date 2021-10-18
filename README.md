@@ -7,7 +7,7 @@ Improving customer experience using Next-Best-Action Technologies.
 
 - 💞️ I’m looking to collaborate on ... Next Best Action API's
 
-- 📫 How to reach me ...
+- 📫 How to reach me ... admin@nextbestactionhubs.com
 
 <!---
 aetuk/aetuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
